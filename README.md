@@ -1,12 +1,23 @@
-<style>
-   td, th {
-   border: none!important;
-}
+
 </style>      
 ![header](https://capsule-render.vercel.app/api?type=waving&text=TaeYoun(Jack)%Kwon!&height=100&reversal=true&color=gradient&fontSize=15&fontAlignY=20) 
-| Attempt | #1    | 
-| :---:   | :---: | 
-| Seconds | 301   |                                                              
+
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
+
+| Column One    | Column Two    |                                                                                                                                                   
+| ---           | ---           |                                                                                                                                                   
+| data cell one | data cell two |                                                            
 <h2>About me</h2>
   <ul>
     <li>🎓 CS Major who loves to write code in Python, C++ and Golang.<br></br></li>
