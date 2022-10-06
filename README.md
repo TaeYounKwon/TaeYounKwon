@@ -1,6 +1,7 @@
 <div align="center">
+     <br></br>
      TaeYoun's GitHub stats
-    <img align="right" vertical-align="center" src="https://github-readme-stats.vercel.app/api?username=kweont0211&show_icons=true">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=kweont0211&show_icons=true">
   
   <h2> 😺 TaeYoun(Jack) Kwon 😸 
    <div>
