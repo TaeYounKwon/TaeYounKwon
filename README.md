@@ -1,8 +1,4 @@
 <div align="center">
-    <div align="right">
-        TaeYoun's GitHub stats
-        <img src="https://github-readme-stats.vercel.app/api?username=kweont0211&show_icons=true"></img>
-    </div>
     <h2> 😺 TaeYoun(Jack) Kwon 😸 
     <div>
         <a href="https://github.com/kweont0211"><img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/></a>
@@ -20,7 +16,14 @@
   </div>
 
 __________
-
+  <div>
+      <div align="right">
+          TaeYoun's GitHub stats
+          <img src="https://github-readme-stats.vercel.app/api?username=kweont0211&show_icons=true"></img>
+      </div>
+      <div align="left">
+          TaeYoun's Most Used Programming Language
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kweont0211&layout=compact"><br><br>
 </div>
 
   
