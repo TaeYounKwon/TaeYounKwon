@@ -1,22 +1,7 @@
     
 ![header](https://capsule-render.vercel.app/api?type=waving&text=TaeYoun(Jack)%Kwon!&height=100&reversal=true&color=gradient&fontSize=15&fontAlignY=20) 
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
 
-| Column One    | Column Two    |                                                                                                                                                   
-| ---           | ---           |                                                                                                                                                   
-| data cell one | data cell two |                                                            
 <h2>About me</h2>
   <ul>
     <li>🎓 CS Major who loves to write code in Python, C++ and Golang.<br></br></li>
@@ -24,7 +9,7 @@ blockquote {
     <li>🔥 Open source enthusiast. Thanks for the all open source contributors!<br></br></li>
     <li>🌏 I used to work at DandiBio and Astrion as Web Developer, and now I study at the MS AI SCHOOL.<br></br></li>
   </ul>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
   	
 <!---
 kweont0211/kweont0211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
