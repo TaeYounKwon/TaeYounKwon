@@ -1,7 +1,7 @@
        
 ![header](https://capsule-render.vercel.app/api?type=waving&text=TaeYoun(Jack)%Kwon!&height=100&reversal=true&color=gradient&fontSize=15&fontAlignY=20) 
 
-| ---  ||---|
+| ---  | --- |
 |  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>    | Content Cell  |
 | Content Cell  | Content Cell  |                                                                                
 <h2>About me</h2>
