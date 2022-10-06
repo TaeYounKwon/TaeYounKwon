@@ -3,7 +3,7 @@
 <h2>About me</h2>
 <ul>
   <li>🎓 CS Major who loves to write code in Python, C++ and Golang.</li>
-
+  <li></li>
   <li>📖 Interested in AI system and Computer Visioning!</li>
 
   <li>🔥 Open source enthusiast. Thanks for the all open source contributors!</li>
