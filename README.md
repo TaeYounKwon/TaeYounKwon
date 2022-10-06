@@ -2,7 +2,7 @@
 <div>
  
 <img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/>
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Linkedin-black?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/taeyoun-kwon-66437a162/"><img src="https://img.shields.io/badge/Linkedin-black?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kweont0211&theme=dark&show_icons=true)
