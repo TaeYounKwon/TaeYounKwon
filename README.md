@@ -4,11 +4,11 @@
 <ul>
   <li>🎓 CS Major who loves to write code in Python, C++ and Golang.<br></br></li>
 
-  <li>📖 Interested in AI system and Computer Visioning!<br></li>
+  <li>📖 Interested in AI system and Computer Visioning!<br></br></li>
 
-  <li>🔥 Open source enthusiast. Thanks for the all open source contributors!<br></li>
+  <li>🔥 Open source enthusiast. Thanks for the all open source contributors!<br></br></li>
 
-  <li>🌏 I used to work at DandiBio and Astrion as Web Developer, and now I study at the MS AI SCHOOL.</li>
+  <li>🌏 I used to work at DandiBio and Astrion as Web Developer, and now I study at the MS AI SCHOOL.<br></br></li>
 </ul>
 
 <!---
