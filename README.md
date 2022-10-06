@@ -15,6 +15,7 @@
     <p> 🏫 I'm currently studying at the MS AI SCHOOL in Seoul, South Korea.</p>
   </div>
 </div>
+
 __________
     
   <div align="center">
