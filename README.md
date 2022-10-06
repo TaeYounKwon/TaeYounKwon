@@ -10,7 +10,7 @@
     <li>🌏 I used to work at DandiBio and Astrion as Web Developer, and now I study at the MS AI SCHOOL.<br></br></li>
   </ul>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kweont0211&theme=dark&show_icons=true)
   	
 <!---
 kweont0211/kweont0211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
