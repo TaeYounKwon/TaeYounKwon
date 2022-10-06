@@ -1,8 +1,12 @@
-       
+ <style>
+td, th {
+   border: none!important;
+}
+</style>      
 ![header](https://capsule-render.vercel.app/api?type=waving&text=TaeYoun(Jack)%Kwon!&height=100&reversal=true&color=gradient&fontSize=15&fontAlignY=20) 
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |                                                             
+| Attempt | #1    | 
+| :---:   | :---: | 
+| Seconds | 301   |                                                              
 <h2>About me</h2>
   <ul>
     <li>🎓 CS Major who loves to write code in Python, C++ and Golang.<br></br></li>
