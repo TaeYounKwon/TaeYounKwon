@@ -10,8 +10,9 @@
   </ul>
 <table border="1">
 	<tr>
-		<th>![header](https://capsule-render.vercel.app/api?type=waving&text=TaeYoun(Jack)%Kwon!&height=100&reversal=true&color=gradient&fontSize=15&fontAlignY=20) </th>
-		
+		<td>![header](https://capsule-render.vercel.app/api?type=waving&text=TaeYoun(Jack)%Kwon!&height=100&reversal=true&color=gradient&fontSize=15&fontAlignY=20) </td>
+		<td></td>
+		<td></td>
 		
 	</tr>
 	<tr>
