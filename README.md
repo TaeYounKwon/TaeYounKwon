@@ -1,9 +1,9 @@
     
 ![header](https://capsule-render.vercel.app/api?type=waving&text=TaeYoun(Jack)%Kwon!&height=100&reversal=true&color=gradient&fontSize=15&fontAlignY=20) 
-
+__________
 
 <h2>About me</h2>
-  <ul>
+  <ul sytle=>
     <li>🎓 CS Major who loves to write code in Python, C++ and Golang.<br></br></li>
     <li>📖 Interested in AI system and Computer Visioning!<br></br></li>
     <li>🔥 Open source enthusiast. Thanks for the all open source contributors!<br></br></li>
