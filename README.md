@@ -3,14 +3,14 @@
  
 <a href="https://github.com/kweont0211"><img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/taeyoun-kwon-66437a162/"><img src="https://img.shields.io/badge/Linkedin-black?style=flat-square&logo=linkedin&logoColor=white"/></a>
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kweont0211&theme=dark&show_icons=true)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkweont0211%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%234A7DB6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kweont0211&theme=dark&show_icons=true)
 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkweont0211%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%234A7DB6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <h2>About me</h2>
   <ul sytle=>
