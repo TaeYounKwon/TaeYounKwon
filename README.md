@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 <ul>
-  <li>🎓 CS Major who loves to write code in Python, C++ and Golang.<br></li>
+  <li>🎓 CS Major who loves to write code in Python, C++ and Golang.<br></br></li>
 
   <li>📖 Interested in AI system and Computer Visioning!<br></li>
 
