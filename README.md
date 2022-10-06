@@ -11,7 +11,7 @@
 </div>
   </h2> 
   
-  <div align="left">
+  <div align="left mb-0">
     <p>🎓 CS Major who loves to write code in Python, C++ and Golang.</p>
     <p>📖 Interested in AI system and Computer Visioning!</p>
     <p>🔥 Open source enthusiast. Thanks for the all open source contributors!</p>
