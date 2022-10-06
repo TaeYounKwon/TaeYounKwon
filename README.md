@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20I'm%TaeYoun(Jack)!&height=80&reversal=true&color=gradient&fontSize=40&fontAlignY=20)           
+![header](https://capsule-render.vercel.app/api?type=waving&text=TaeYoun(Jack)%Kwon!&height=100&reversal=true&color=gradient&fontSize=40&fontAlignY=13)           
 | Command | Description |
 | --- | --- |
 | Content Cell  | Content Cell  |
