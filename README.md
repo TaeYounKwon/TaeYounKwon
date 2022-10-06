@@ -1,5 +1,4 @@
-    
-      😺 TaeYoun(Jack) Kwon 😸
+<h>😺 TaeYoun(Jack) Kwon 😸</h>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kweont0211&theme=dark&show_icons=true)
 
 <h2>About me</h2>
