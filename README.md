@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20I'm%TaeYoun(Jack)!&height=200&reversal=true&color=gradient&fontSize=40&fontAlignY=40)
 
-About me
+<h1>About me</h1>
 
 🎓 CS Major who loves to write code in Python, C++ and Golang.
 
