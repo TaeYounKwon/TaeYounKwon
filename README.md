@@ -10,10 +10,10 @@
   <div align="center">   
       <img align="right" src="https://github-readme-stats.vercel.app/api?username=kweont0211&show_icons=true"></img>
       <div align="left" >
-         <p>🎓 CS Major who loves to write code in Python, C++ and Golang.</p>
+         <p>🎓 CS Major who loves to write code in Python, C++ <br></br>   and Golang.</p>
          <p>📖 Interested in AI system and Computer Visioning!</p>
-           <p> 🏢 I used to work at DandiBio and Astrion as Web Developer.</p>
-         <p> 🏫 I'm currently studying at the MS AI SCHOOL in Seoul, South Korea.</p>
+           <p> 🏢 I used to work at DandiBio and Astrion <br></br>   as Web Developer.</p>
+         <p> 🏫 I'm currently studying at the MS AI SCHOOL.</p>
      </div>
   </div>
 </div>
