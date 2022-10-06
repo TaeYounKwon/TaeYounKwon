@@ -17,7 +17,6 @@
     <p> 🏢 I used to work at DandiBio and Astrion as Web Developer.
     <p> 🏫 I'm currently studying at the MS AI SCHOOL in Seoul, South Korea.</p>
   </div>
-</div>
 
 __________
     
