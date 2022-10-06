@@ -9,7 +9,7 @@
     <li>🌏 I used to work at DandiBio and Astrion as Web Developer, and now I study at the MS AI SCHOOL.<br></br></li>
   </ul>
   
-  	<table border="0">
+  	<table border="1">
 	<tr>
 		<th></th>
 		<th>ab</td>
