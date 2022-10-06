@@ -21,8 +21,6 @@
     <h2> 😺 Jack's Github Stats 😸 </h2>
       <div align="left">
           <img src="https://github-readme-stats.vercel.app/api?username=kweont0211&show_icons=true"></img>
-      </div>
-      <div align="left" margin-left="none" margin-top="none">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kweont0211&layout=compact"></img>
       </div>
   </div>  
