@@ -10,7 +10,7 @@
   <div align="right">
       <img src="https://github-readme-stats.vercel.app/api?username=kweont0211&show_icons=true"></img>
   </div>   
-  <div align="left" position="absolute">
+  <div align="left" margin-top="-100px">
     <p>🎓 CS Major who loves to write code in Python, C++ and Golang.</p>
     <p>📖 Interested in AI system and Computer Visioning!</p>
     <p>🔥 Open source enthusiast. Thanks for the all open source contributors!</p>
