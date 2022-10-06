@@ -12,8 +12,8 @@
 <table border="0">
 	<tr>
 		<th>첫 번째 행</th>
-		<td>1,1</td>
-		<td>1,2</td>
+		<th>1,1</th>
+		<th>1,2</th>
 		
 	</tr>
 	<tr>
