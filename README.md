@@ -1,5 +1,6 @@
 <div align="center">
   <div align="right">
+    
   ![TaeYoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kweont0211&theme=dark&show_icons=true)
   
   </div>
@@ -9,7 +10,8 @@
    <div>
    <a href="https://github.com/kweont0211"><img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/taeyoun-kwon-66437a162/"><img src="https://img.shields.io/badge/Linkedin-black?style=flat-square&logo=linkedin&logoColor=white"/></a>
-     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=black&link=mailto:kweont0211@gmail.com)](mailto:kweont0211@gmail.com)
+     <a href="mailto:kweont0211@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=black&link=mailto:kweont0211@gmail.com"/></a>
+    
 
   
   
