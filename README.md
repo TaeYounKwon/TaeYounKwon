@@ -23,8 +23,7 @@
           <img src="https://github-readme-stats.vercel.app/api?username=kweont0211&show_icons=true"></img>
       </div>
       <div align="right">
-         
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kweont0211&layout=compact">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kweont0211&layout=compact"></img>
       </div>
   </div>  
 
