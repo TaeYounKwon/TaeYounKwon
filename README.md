@@ -12,7 +12,6 @@
       <div align="left" >
          <p>🎓 CS Major who loves to write code in Python, C++ and Golang.</p>
          <p>📖 Interested in AI system and Computer Visioning!</p>
-         <p>🔥 Open source enthusiast. Thanks for the all open source contributors!</p>
          <p> 🏢 I used to work at DandiBio and Astrion as Web Developer.
          <p> 🏫 I'm currently studying at the MS AI SCHOOL in Seoul, South Korea.</p>
      </div>
@@ -22,7 +21,6 @@
   ---
     
   <div align="center">
-   
       <div align="left">
           <img src="https://github-readme-stats.vercel.app/api?username=kweont0211&show_icons=true"></img>
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kweont0211&layout=compact"></img>
