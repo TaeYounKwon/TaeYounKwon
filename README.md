@@ -1,9 +1,8 @@
 <div align="center">
-  <div align="right">
-    
-  ![TaeYoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kweont0211&theme=dark&show_icons=true)
+     TaeYoun's GitHub stats
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=kweont0211&show_icons=true">
   
-  </div>
+  
   
   
   <h2> 😺 TaeYoun(Jack) Kwon 😸 
@@ -12,6 +11,8 @@
   <a href="https://www.linkedin.com/in/taeyoun-kwon-66437a162/"><img src="https://img.shields.io/badge/Linkedin-black?style=flat-square&logo=linkedin&logoColor=white"/></a>
      <a href="mailto:kweont0211@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=black&link=mailto:kweont0211@gmail.com"/></a>
     
+     
+     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kweont0211&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
 
   
   
