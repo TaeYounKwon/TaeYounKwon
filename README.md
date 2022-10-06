@@ -10,12 +10,13 @@
   <br>
 </div>
   </h2> 
-  <ul sytle=>
-    <li>🎓 CS Major who loves to write code in Python, C++ and Golang.</li>
-    <li>📖 Interested in AI system and Computer Visioning!</li>
-    <li>🔥 Open source enthusiast. Thanks for the all open source contributors!</li>
-    <li>🌏 I used to work at DandiBio and Astrion as Web Developer, and now I study at the MS AI SCHOOL.</li>
-  </ul>
+  
+  <div align="left">
+    <p>🎓 CS Major who loves to write code in Python, C++ and Golang.</p>
+    <p>📖 Interested in AI system and Computer Visioning!</p>
+    <p>🔥 Open source enthusiast. Thanks for the all open source contributors!</p>
+    <p>🌏 I used to work at DandiBio and Astrion as Web Developer, and now I study at the MS AI SCHOOL.</p>
+  </div>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kweont0211&theme=dark&show_icons=true)
