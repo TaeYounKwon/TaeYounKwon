@@ -1,9 +1,7 @@
 <div align="center">
- 
-    <div align="right">
      TaeYoun's GitHub stats
-    <img src="https://github-readme-stats.vercel.app/api?username=kweont0211&show_icons=true">
- </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=kweont0211&show_icons=true"></img>
+
   <h2> 😺 TaeYoun(Jack) Kwon 😸 
    <div>
    <a href="https://github.com/kweont0211"><img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/></a>
