@@ -1,4 +1,4 @@
-<div align="center" margin-top="50px">
+<div align="center" vlign="center">
  
      TaeYoun's GitHub stats
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=kweont0211&show_icons=true">
