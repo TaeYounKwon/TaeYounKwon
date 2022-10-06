@@ -7,7 +7,7 @@
         <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkweont0211%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%234A7DB6&title=hits&edge_flat=false"/></a>
   </div>
   </h2> 
-  <div align="left">
+  <div align="center">
     <p>🎓 CS Major who loves to write code in Python, C++ and Golang.</p>
     <p>📖 Interested in AI system and Computer Visioning!</p>
     <p>🔥 Open source enthusiast. Thanks for the all open source contributors!</p>
