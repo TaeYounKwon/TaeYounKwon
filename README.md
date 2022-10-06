@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20I'm%TaeYoun(Jack)!&height=200&reversal=true&color=gradient&fontSize=40&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20I'm%TaeYoun(Jack)!&height=200&reversal=true&color=gradient&fontSize=40&fontAlignY=40)
 
 
 <!---
