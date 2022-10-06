@@ -2,11 +2,11 @@
 
 <h2>About me</h2>
 <ul>
-  <li>🎓 CS Major who loves to write code in Python, C++ and Golang.</li>
-  <li></li>
-  <li>📖 Interested in AI system and Computer Visioning!</li>
+  <li>🎓 CS Major who loves to write code in Python, C++ and Golang.<br></li>
 
-  <li>🔥 Open source enthusiast. Thanks for the all open source contributors!</li>
+  <li>📖 Interested in AI system and Computer Visioning!<br></li>
+
+  <li>🔥 Open source enthusiast. Thanks for the all open source contributors!<br></li>
 
   <li>🌏 I used to work at DandiBio and Astrion as Web Developer, and now I study at the MS AI SCHOOL.</li>
 </ul>
