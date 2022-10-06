@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20I'm%TaeYoun(Jack)!&height=200&reversal=true&color=gradient&fontSize=40&fontAlignY=40)                                                                                           
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20I'm%TaeYoun(Jack)!&height=200&reversal=true&color=gradient&fontSize=40&fontAlignY=40)           | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |                                                                                
 <h2>About me</h2>
   <ul>
     <li>🎓 CS Major who loves to write code in Python, C++ and Golang.<br></br></li>
