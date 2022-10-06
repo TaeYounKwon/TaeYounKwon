@@ -8,8 +8,7 @@
     <li>🔥 Open source enthusiast. Thanks for the all open source contributors!<br></br></li>
     <li>🌏 I used to work at DandiBio and Astrion as Web Developer, and now I study at the MS AI SCHOOL.<br></br></li>
   </ul>
-  
-  	<table border="1">
+<table border="1">
 	<tr>
 		<th></th>
 		<th>첫 번째 열</td>
@@ -30,7 +29,8 @@
 		<td>3,1</td>
 		<td>3,2</td>
 	</tr>
-	</table>
+	</table>  
+  	
 <!---
 kweont0211/kweont0211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
