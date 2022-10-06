@@ -8,7 +8,7 @@
     <li>🔥 Open source enthusiast. Thanks for the all open source contributors!<br></br></li>
     <li>🌏 I used to work at DandiBio and Astrion as Web Developer, and now I study at the MS AI SCHOOL.<br></br></li>
   </ul>
-<table border="1">
+<table border="0">
 	<tr>
 		<th></th>
 		<th></td>
