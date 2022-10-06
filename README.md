@@ -11,7 +11,7 @@
 <table border="1">
 	<tr>
 		<th></th>
-		<th>첫 번째 열</td>
+		<th></td>
 		<th>두 번째 열</td>
 	</tr>
 	<tr>
