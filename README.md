@@ -10,9 +10,9 @@
   </ul>
 <table border="1">
 	<tr>
-		<th> abc</th>
-		<td>abc</td>
-		<td>abc</td>
+		<th>첫 번째 행</th>
+		<td>1,1</td>
+		<td>1,2</td>
 		
 	</tr>
 	<tr>
