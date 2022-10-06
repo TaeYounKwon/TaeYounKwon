@@ -10,7 +10,7 @@
   <div align="center">   
       <img align="right" src="https://github-readme-stats.vercel.app/api?username=kweont0211&show_icons=true"></img>
       <div align="left" >
-         <p>🎓 CS Major who loves to write code in Python and C++ .</p>
+         <p>🎓 CS Major who loves to use Python and C++ .</p>
          <p>📖 Interested in AI system and Computer Visioning!</p>
            <p> 🏢 Used to work as Frontend Developer.</p>
          <p> 🏫 I'm currently studying at the MS AI SCHOOL.</p>
