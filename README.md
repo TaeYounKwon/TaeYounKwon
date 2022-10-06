@@ -15,7 +15,8 @@
     <p>🎓 CS Major who loves to write code in Python, C++ and Golang.</p>
     <p>📖 Interested in AI system and Computer Visioning!</p>
     <p>🔥 Open source enthusiast. Thanks for the all open source contributors!</p>
-    <p>🌏 I used to work at DandiBio and Astrion as Web Developer, and now I study at the MS AI SCHOOL.</p>
+    <p> 🏢 I used to work at DandiBio and Astrion as Web Developer.
+    <p> 🏫 I'm currently studying at the MS AI SCHOOL in Seoul, South Korea.</p>
   </div>
 
 
