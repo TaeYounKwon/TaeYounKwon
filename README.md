@@ -12,8 +12,8 @@
   	<table border="1">
 	<tr>
 		<th></th>
-		<th>ab</td>
-		<th>abc</td>
+		<th>첫 번째 열</td>
+		<th>두 번째 열</td>
 	</tr>
 	<tr>
 		<th>첫 번째 행</th>
