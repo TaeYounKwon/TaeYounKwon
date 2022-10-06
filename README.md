@@ -2,7 +2,7 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kweont0211&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
   
-  ### 😺 TaeYoun(Jack) Kwon 😸 
+  <h2> 😺 TaeYoun(Jack) Kwon 😸 </h2> 
    <div>
  <a href="https://github.com/kweont0211"><img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/taeyoun-kwon-66437a162/"><img src="https://img.shields.io/badge/Linkedin-black?style=flat-square&logo=linkedin&logoColor=white"/></a>
