@@ -10,9 +10,9 @@
   </ul>
 <table border="1">
 	<tr>
-		<th></th>
-		<th>첫 번째 열</td>
-		<th>두 번째 열</td>
+		<th>![header](https://capsule-render.vercel.app/api?type=waving&text=TaeYoun(Jack)%Kwon!&height=100&reversal=true&color=gradient&fontSize=15&fontAlignY=20) </th>
+		
+		
 	</tr>
 	<tr>
 		<th>첫 번째 행</th>
