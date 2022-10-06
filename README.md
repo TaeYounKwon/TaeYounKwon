@@ -1,8 +1,10 @@
 <h1>😺 TaeYoun(Jack) Kwon 😸</h1>
 <div>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkweont0211%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%234A7DB6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/>
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kweont0211&theme=dark&show_icons=true)
 
 <h2>About me</h2>
