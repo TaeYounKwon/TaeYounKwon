@@ -19,8 +19,7 @@
     
   <div align="center">
     <h2> 😺 Jack's Github Stats 😸 </h2>
-      <div align="left-top">
-          TaeYoun's GitHub stats
+      <div align="left">
           <img src="https://github-readme-stats.vercel.app/api?username=kweont0211&show_icons=true"></img>
       </div>
       <div align="right">
