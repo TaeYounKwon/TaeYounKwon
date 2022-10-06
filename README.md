@@ -1,7 +1,6 @@
 <div align="center">
-     😺 TaeYoun(Jack) Kwon 😸
+     <h2>😺 TaeYoun(Jack) Kwon 😸</h2>
     
-    _____________
     
     <div>
         <a href="https://github.com/kweont0211"><img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/></a>
@@ -17,7 +16,7 @@
     <p> 🏢 I used to work at DandiBio and Astrion as Web Developer.
     <p> 🏫 I'm currently studying at the MS AI SCHOOL in Seoul, South Korea.</p>
   </div>
-
+</div>
 __________
     
   <div align="center">
