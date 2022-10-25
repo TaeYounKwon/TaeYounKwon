@@ -27,8 +27,8 @@
         <h3>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
         Currently Looking for Open Positions with</h3>
         <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ AI Engineer</p>
-        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ Data Scientist</p>
         <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ Data Engineer</p>
+        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ Data Scientist</p>
         <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ Software Engineer</p>
      </div>
   </div>  
