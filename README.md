@@ -13,7 +13,7 @@
      <p>🎓 CS Major who loves to learn new tech.</p>
      <p>📖 Interested in AI & Data Engineering!</p>
      <p> 🏢 Used to work as Frontend Developer.</p>
-     <p> 🏫 I'm currently studying at the MS AI SCHOOL.</p>
+     <p> 🏫 I'm currently working as a freelancer.</p>
   </div>
   </div>
   
