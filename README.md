@@ -10,10 +10,10 @@
   </div>
   </h2> 
   <div align="left" >
-     <p>🎓 CS Major who loves to learn new tech.</p>
-     <p>📖 Interested in AI & Data Engineering!</p>
-     <p> 🏢 Used to work as Frontend Developer.</p>
-     <p> 🏫 I'm currently working as a freelancer.</p>
+     <p> 🎓 CS Major who loves to learn new tech.</p>
+     <p> 📖 Studying for Master/PhD in Artificial Intelligence field.</p>
+     <p> 🏢 Interested in AI & Neuro Science!</p>
+     <p> 🏫 I'm currently working in the AI & Neuro Tech Lab in Korea Univ.</p>
   </div>
   </div>
   
@@ -27,9 +27,9 @@
         <h3>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
         Currently Looking for Open Positions with</h3>
         <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ AI Engineer</p>
-        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ Data Engineer</p>
-        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ Data Scientist</p>
         <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ Software Engineer</p>
+        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ Python Developer</p>
+        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ Data Engineer</p>
      </div>
   </div>  
 
