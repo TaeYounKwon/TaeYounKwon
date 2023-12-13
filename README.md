@@ -11,7 +11,7 @@
   </h2> 
   <div align="left" >
      <p> 🎓 CS Major who loves to learn new tech.</p>
-     <p> 📖 Studying for Master/PhD in Artificial Intelligence field.</p>
+     <p> 📖 Studying for Master/PhD in Artificial Intelligence.</p>
      <p> 🏢 Interested in AI & Neuro Science!</p>
      <p> 🏫 I'm currently working in the AI Lab in Korea Univ.</p>
   </div>
