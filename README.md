@@ -13,7 +13,7 @@
      <p> 🎓 CS Major who loves to learn new tech.</p>
      <p> 📖 Studying for Master/PhD in Artificial Intelligence.</p>
      <p> 🏢 Interested in AI & Neuro Science!</p>
-     <p> 🏫 I'm currently working in the BRIEN Lab in Korea Univ.</p>
+     <p> 🏫 I'm currently working in the BREIN Lab in Korea Univ.</p>
   </div>
   </div>
   
